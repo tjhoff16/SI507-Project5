@@ -1,1 +1,6 @@
-Put your Project 5 brief explanation, as directed, here.
+I am accessing the Tumblr search API and getting the last 20 posts from funnyharrypotter.tumblr.com/posts.
+For each post I will gather the tags, then count how many times each is used.
+Additionally, I will tally how many likes and reblogs each post gets.
+After that, I will write 2 csv files, the first will have the post ID, along with how often it was liked and reblogged.
+The second will have a list of tags, and how many times each was used.
+API URL: https://www.tumblr.com/docs/en/api/v2#auth
