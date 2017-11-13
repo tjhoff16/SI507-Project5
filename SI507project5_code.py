@@ -4,6 +4,8 @@ import json
 import secretdata
 from datetime import datetime
 
+#consulting with Saul Hankin and Jacob Haspiel on various parts, including the get_tokens function and some testing ideas.
+
 ##### CACHING SETUP #####
 #--------------------------------------------------
 # Caching constants
